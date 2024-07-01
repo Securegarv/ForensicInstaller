@@ -37,4 +37,3 @@ ForensicInstaller is a Bash script that automates the installation of digital fo
    ```bash
    sudo ./forensic-tool.sh
    
-Made by Garv Kamra.
