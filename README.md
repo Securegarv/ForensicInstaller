@@ -28,7 +28,7 @@ ForensicInstaller is a Bash script that automates the installation of digital fo
 
 1. **Clone the Repository:**
    ```bash
-   git clone <repository_url>
+   git clone https://github.com/Securegarv/ForensicInstaller.git
    cd ForensicInstaller
 2. **Make the Script Executable:**
    ```bash
@@ -36,4 +36,5 @@ ForensicInstaller is a Bash script that automates the installation of digital fo
 3. ***Run the Script with Superuser Privileges:***
    ```bash
    sudo ./forensic-tool.sh
-Made by securegarv.
+   
+Made by Garv Kamra.
